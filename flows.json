@@ -33,22 +33,12 @@
         "labels": "",
         "maxreadings": "",
         "ticks": "",
-        "xtype": [
-            {
-                "source": "osmonitor",
-                "name": "ts",
-                "type": "time"
-            }
-        ],
-        "ytype": [
-            {
-                "source": "osmonitor",
-                "name": "value",
-                "type": "number"
-            }
-        ],
+        "xtype": [],
+        "ytype": [],
         "subtype": "bar",
-        "previousinputs": [],
+        "previousinputs": {
+            "9128d013.fb4b7": "freemem"
+        },
         "x": 332,
         "y": 232,
         "wires": [
