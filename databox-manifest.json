@@ -1,6 +1,6 @@
 {
     "manifest-version": 1,
-    "name": "seveneng-tlodge-monitor",
+    "name": "seveneng-seveneng-tlodge-monitor",
     "version": "0.1.0",
     "description": "new test ageian",
     "author": "sevenEng",
@@ -9,10 +9,10 @@
     "tags": [
         "adslhs"
     ],
-    "homepage": "https://github.com/seveneng/databox.tutorial-freememory",
+    "homepage": "https://github.com/seveneng/databox.local-os-monitor",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/seveneng/databox.tutorial-freememory.git"
+        "url": "git+https://github.com/seveneng/databox.local-os-monitor.git"
     },
     "packages": [
         {
